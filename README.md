@@ -2,4 +2,3 @@
 - I’m interested in data analysis
 - I’m currently learning Python and SQL
 - I have a degree in mathematics
-- found myself on Linkedin: https://www.linkedin.com/in/matheus-meneguelli-abelha/
